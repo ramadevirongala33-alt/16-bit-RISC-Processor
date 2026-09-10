@@ -1,0 +1,15 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Users/R ramadevi/OneDrive/Desktop/16_bit_RISC_Processer/16bir_RISC_Processer/16bir_RISC_Processer.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+C:/Users/R ramadevi/OneDrive/Desktop/16_bit_RISC_Processer/rtl/alu.sv,1788862364,systemVerilog,,C:/Users/R ramadevi/OneDrive/Desktop/16_bit_RISC_Processer/rtl/control_unit.sv,,alu,,,,,,,,
+C:/Users/R ramadevi/OneDrive/Desktop/16_bit_RISC_Processer/rtl/control_unit.sv,1788933693,systemVerilog,,C:/Users/R ramadevi/OneDrive/Desktop/16_bit_RISC_Processer/rtl/cpu_top.sv,,control_unit,,,,,,,,
+C:/Users/R ramadevi/OneDrive/Desktop/16_bit_RISC_Processer/rtl/cpu_top.sv,1788942742,systemVerilog,,C:/Users/R ramadevi/OneDrive/Desktop/16_bit_RISC_Processer/rtl/data_memory.sv,,cpu_top,,,,,,,,
+C:/Users/R ramadevi/OneDrive/Desktop/16_bit_RISC_Processer/rtl/data_memory.sv,1788862343,systemVerilog,,C:/Users/R ramadevi/OneDrive/Desktop/16_bit_RISC_Processer/rtl/immediate_generator.sv,,data_memory,,,,,,,,
+C:/Users/R ramadevi/OneDrive/Desktop/16_bit_RISC_Processer/rtl/immediate_generator.sv,1788862374,systemVerilog,,C:/Users/R ramadevi/OneDrive/Desktop/16_bit_RISC_Processer/rtl/instruction_memory.sv,,immediate_generator,,,,,,,,
+C:/Users/R ramadevi/OneDrive/Desktop/16_bit_RISC_Processer/rtl/instruction_memory.sv,1788871422,systemVerilog,,C:/Users/R ramadevi/OneDrive/Desktop/16_bit_RISC_Processer/rtl/mux.sv,,instruction_memory,,,,,,,,
+C:/Users/R ramadevi/OneDrive/Desktop/16_bit_RISC_Processer/rtl/mux.sv,1788862327,systemVerilog,,C:/Users/R ramadevi/OneDrive/Desktop/16_bit_RISC_Processer/rtl/program_counter.sv,,mux,,,,,,,,
+C:/Users/R ramadevi/OneDrive/Desktop/16_bit_RISC_Processer/rtl/program_counter.sv,1788867866,systemVerilog,,C:/Users/R ramadevi/OneDrive/Desktop/16_bit_RISC_Processer/rtl/register_file.sv,,program_counter,,,,,,,,
+C:/Users/R ramadevi/OneDrive/Desktop/16_bit_RISC_Processer/rtl/register_file.sv,1788876290,systemVerilog,,C:/Users/R ramadevi/OneDrive/Desktop/16_bit_RISC_Processer/tb/cpu_tb.sv,,register_file,,,,,,,,
+C:/Users/R ramadevi/OneDrive/Desktop/16_bit_RISC_Processer/tb/cpu_tb.sv,1788934994,systemVerilog,,,,cpu_tb,,,,,,,,

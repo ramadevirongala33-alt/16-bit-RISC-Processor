@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Wed Sep  9 19:41:30 2026
+# Process ID: 15832
+# Current directory: C:/Users/R ramadevi/OneDrive/Desktop/16_bit_RISC_Processer/16bir_RISC_Processer/16bir_RISC_Processer.runs/synth_1
+# Command line: vivado.exe -log cpu_top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source cpu_top.tcl
+# Log file: C:/Users/R ramadevi/OneDrive/Desktop/16_bit_RISC_Processer/16bir_RISC_Processer/16bir_RISC_Processer.runs/synth_1/cpu_top.vds
+# Journal file: C:/Users/R ramadevi/OneDrive/Desktop/16_bit_RISC_Processer/16bir_RISC_Processer/16bir_RISC_Processer.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source cpu_top.tcl -notrace
